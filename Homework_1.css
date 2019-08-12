@@ -1,0 +1,21 @@
+.Garfield,.Background{
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+}
+.garfield{
+	height: 200px;
+	width: 200px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.Background{background-color: #0000FF
+}
+.Mine{display: block;
+height: 500px;
+width: 500px;
+border: 10px solid #000000}
+.mine{
+	text-align: center;
+	font-weight: 900;
+}
